@@ -1,7 +1,7 @@
 # *Autodesk Fusion 360*
 
 ## *Overview*
-*Autodesk Fusion 360* is a cloud-based 3D modeling, CAD, CAM, CAE,PCB  software platform designed for product design & manufacturing. It integrates various design, engineering, & simulation tools into a single platform, enabling engineers & designers to collaborate efficiently.
+*Autodesk Fusion 360* is a cloud-based 3D modeling, CAD, CAM, CAE,PCB  software platform designed for product design & mfd. It integrates various design, engineering, & simulation tools into a single platform, enabling engineers & designers to collaborate efficiently.
 
 ## *Features*
 - *Parametric & Direct Modeling* – Supports both parametric & direct modeling for flexible design workflows.
@@ -45,6 +45,6 @@
 *Fusion 360* supports integration with both *ROS (Robot OS) & ROS2*, allowing for advanced robotic simulations & modeling.
 *Fusion 360* can be connected to *ROS (Robot OS)* through:
 - *URDF (Unified Robot Description Format)* – *Fusion 360* can export CAD designs as URDF files for ROS-based simulations, allowing for accurate robotic modeling.
-- *Mesh & STL Files* – ROS-based simulation environments like Gazebo can use STL or OBJ files exported from *Fusion 360*.
+- *Mesh & STL Files* – ROS-based simulation env like Gazebo can use STL or OBJ files exported from *Fusion 360*.
 - *SDF (Simulation Description Format)* – Used in Gazebo simulations to define robot models.
 - *Custom Plugins & API* – *Fusion 360* can be integrated with *ROS* using custom scripts & APIs to enable automation & real-time modifications in robotic simulations.
