@@ -1,7 +1,7 @@
 # *Autodesk Fusion 360*
 
 ## *Overview*
-*Autodesk Fusion 360* is a cloud-based 3D modeling, CAD, CAM, CAE,PCB  software platform designed for product design & mfd. It integrates various design, engineering, & simulation tools into a single platform, enabling engineers & designers to collaborate efficiently.
+A cloud-based 3D modeling, CAD, CAM, CAE,PCB  software platform designed for product design & mfd. It integrates various design, engineering, & simulation tools into a single platform, enabling engineers & designers to collaborate efficiently.
 
 ## *Features*
 - *Parametric & Direct Modeling* – Supports both parametric & direct modeling for flexible design workflows.
