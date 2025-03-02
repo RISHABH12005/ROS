@@ -41,10 +41,10 @@
 - *STL (.stl)*
 - *DWG/DXF (.dwg, .dxf)*
 
-## *Integration with ROS & ROS2 (Robot Operating System)*
-*Fusion 360* supports integration with both *ROS (Robot OS) & ROS2*, allowing for advanced robotic simulations & modeling.
-*Fusion 360* can be connected to *ROS (Robot OS)* through:
-- *URDF (Unified Robot Description Format)* – *Fusion 360* can export CAD designs as URDF files for ROS-based simulations, allowing for accurate robotic modeling.
+## *Integration with ROS & ROS2*
+*Fusion 360* supports integration with both *ROS & ROS2*, allowing for advanced robotic simulations & modeling.
+*Fusion 360* can be connected to *ROS* through:
+- *URDF* – *Fusion 360* can export CAD designs as URDF files for ROS-based simulations, allowing for accurate robotic modeling.
 - *Mesh & STL Files* – ROS-based simulation env like Gazebo can use STL or OBJ files exported from *Fusion 360*.
 - *SDF (Simulation Description Format)* – Used in Gazebo simulations to define robot models.
 - *Custom Plugins & API* – *Fusion 360* can be integrated with *ROS* using custom scripts & APIs to enable automation & real-time modifications in robotic simulations.
